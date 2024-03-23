@@ -5,6 +5,6 @@ des modifications dans les fichiers et le code source lors du développement de 
 Il permet aux développeurs de travailler ensemble sur des projets, de fusionner leurs modifications
  et de gérer les versions de leur code de manière efficace.
 
-Github, quant à lui, est une plateforme d'hébergement de code source basée sur Git. Elle offre des
+Github,quant à lui, est une plateforme d'hébergement de code source basée sur Git. Elle offre des
  fonctionnalités supplémentaires telles que le suivi des problèmes, la gestion des projets, 
  la collaboration avec d'autres développeurs, et la possibilité de créer des dépôts publics ou privés
