@@ -1,4 +1,4 @@
-Formation Git et Github
+Formation Git et Github (For Biginners)
 
 Git est un système de contrôle de version distribué largement utilisé pour le suivi 
 des modifications dans les fichiers et le code source lors du développement de logiciels. 
